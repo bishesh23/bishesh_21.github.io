@@ -1,0 +1,25 @@
+body {
+    color:"blue";
+
+}
+h2{
+    color:midnightblue;
+}
+form{
+color:midnightblue;
+}
+fieldset {
+    color:darkblue;
+    background-color: seashell;
+}
+input{
+padding: 10px}
+}
+.button {
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    background-color: green;
+    border-radius: 8px;

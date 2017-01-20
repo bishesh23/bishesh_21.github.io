@@ -1,0 +1,45 @@
+
+body{
+color:midnightblue;
+    background-image: url("6603b76f5332cfe06c72688028a9f1b21413035974_full.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    h1 {color : blue;
+        border-style: solid;
+        border-color: darkblue;
+        background:lightsteelblue;
+}
+    h2{
+        color:mediumblue;
+    }
+input{
+    padding: 10px;
+
+}
+form1 {
+    width: 450px;
+    padding: 30px;
+    margin: 40px auto;
+    background: aliceblue;
+    border-radius: 10px;
+    align:"center";
+}
+.button {
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    background-color: green;
+    border-radius: 8px;
+
+
+
+}
+
+h3 {
+color:blue;
+    }
+

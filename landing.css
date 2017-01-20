@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+
+input{
+    padding: 10px;
+
+}
+body {
+color:burlywood;
+    background-image: url("PORDfNi.jpg");
+    background-repeat: no-repeat;
+    font-family: "Bell MT";
+}
+a{
+    font-size: larger;
+    color:darkblue;
+
+}
+h3{
+    color:whitesmoke;
+}
+
+footer{
+    float: bottom;
+    color:white;
+}
+

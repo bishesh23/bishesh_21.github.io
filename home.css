@@ -1,0 +1,74 @@
+h1{
+    color: gold;
+    border-style: solid;
+    border-color: darkblue;
+    background:grey;
+}
+input{
+    padding: 10px;
+
+}
+fieldset{
+   background-color:grey;
+    border: #3499ff;
+}
+body {
+    color:oldlace;
+}
+
+h2{
+    color:darkblue;
+    font-size: x-large;
+}
+h3{
+    color:darkblue;
+    font-size: x-large;
+}
+ul {
+    background-color: #333;
+}
+
+li {
+    padding: 14px 16px;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: darkturquoise;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color: #111;
+}
+iframe {
+    float:center;
+}
+.button {
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    background-color: black;
+    border-radius: 8px;}
+a{
+    color:green;
+    font-size: larger;
+}
+a2{
+    color:crimson;
+}
+strong{
+    color:blue;
+}
+footer2{
+    color:white;
+}
+
+
+
+
+
